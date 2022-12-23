@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>NEW GIT NEW GIT</h1>'
